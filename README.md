@@ -3,7 +3,6 @@
 **An end-to-end data analytics project** — from raw data to business recommendations — analyzing 3,900 retail transactions to uncover what drives customer spending, loyalty, and engagement.
 
 ![Power BI Dashboard](dashboard.png)
-<img width="1272" height="691" alt="dashboard" src="https://github.com/user-attachments/assets/a0ab5d34-899f-4b7b-9a54-5b91bf5171ad" />
 
 ---
 
@@ -31,7 +30,7 @@ The project covers the full analytics pipeline: **data cleaning → SQL analysis
 
 ## 🔍 Project Workflow
 
-![Project Workflow](assets/workflow.png)
+![Project Workflow](workflow.png)
 
 **1. Data Preparation — Python** (`Customer_Shopping_Behavior_Analysis.ipynb`)
 - Explored the dataset with `df.info()` / `df.describe()`
