@@ -2,7 +2,8 @@
 
 **An end-to-end data analytics project** — from raw data to business recommendations — analyzing 3,900 retail transactions to uncover what drives customer spending, loyalty, and engagement.
 
-![Power BI Dashboard](assets/dashboard.png)
+![Power BI Dashboard](dashboard.png)
+<img width="1272" height="691" alt="dashboard" src="https://github.com/user-attachments/assets/a0ab5d34-899f-4b7b-9a54-5b91bf5171ad" />
 
 ---
 
