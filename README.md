@@ -100,6 +100,5 @@ The project covers the full analytics pipeline: **data cleaning → SQL analysis
 
 Aspiring Data Analyst with hands-on experience in Python, SQL, and Power BI, passionate about turning raw data into actionable business insights.
 
-📧 Email: *add your email here*
-🔗 LinkedIn: *add your LinkedIn here*
-💻 Portfolio: *add your portfolio link here*
+📧 Email: *harshavardhanpundir332@gmail.com*
+💻 Portfolio: *[add your portfolio link here](https://pundirharsh.github.io/harsh-portfolio/)*
